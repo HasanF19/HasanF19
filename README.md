@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @HasanF19
-- 👀 I’m interested in Artificial İntelligence
-- 🌱 I’m currently learning Opencv and Deep Learning
+- 👋 _Hi, I’m @HasanF19_
+- 👀 I’m **Artificial İntelligence Engineer**
+- 🌱 *I’m currently learning Web-Scraping and Image Processing*
 - 📫 How to reach me?: ozturkhasanfatih@gmail.com/220212002@ostimteknik.edu.tr
 
 <!---
